@@ -177,7 +177,7 @@ main .coluna-direita {}
 
 main .coluna section {
     border: 1px solid #d4e9ff;
-    margin: 0 0 20px;
+    margin: 0 10px 20px;
     padding: 20px;
     color: var(--corDoTextoSecundaria);
 }
